@@ -1,13 +1,17 @@
 def new_hash
-
+  empty_hash = {}
+  return empty_hash
 end
 
 def actor
+  actor_info = {name:"Dwayne The Rock Johnson"}
 
 end
 
 def monopoly
-	monopoly = {}
+	monopoly = {
+	  :railroads = {}
+	}
 
 end
 

@@ -13,7 +13,7 @@ def monopoly
     :railroads: {
       
     }
-  }
+  
 	
 
 end
